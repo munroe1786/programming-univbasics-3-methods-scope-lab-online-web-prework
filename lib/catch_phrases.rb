@@ -15,3 +15,10 @@ def status
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 end
   
+def link
+  puts phrase
+end
+
+def phrase
+  puts "It's Dangerous To Go Alone! Take This."
+end
