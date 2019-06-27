@@ -20,5 +20,5 @@ def link
 end
 
 def link_phrase
-  link_phrase = "It's Dangerous To Go Alone! Take This."
+  link_phrase = 'It's Dangerous To Go Alone! Take This.'
 end
