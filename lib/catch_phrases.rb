@@ -16,9 +16,9 @@ def status
 end
   
 def link
-  puts phrase
+  puts link_ phrase
 end
 
-def phrase
-  phrase = "It's Dangerous To Go Alone! Take This."
+def link_phrase
+  link_phrase = "It's Dangerous To Go Alone! Take This."
 end
