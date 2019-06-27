@@ -16,7 +16,7 @@ def status
 end
   
 def link
-  puts link_ phrase
+  puts link_phrase
 end
 
 def link_phrase
